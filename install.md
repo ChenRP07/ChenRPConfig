@@ -24,5 +24,15 @@ Open neovim
 
 Save this file or input command `:PackerSync`, then restart nvim, all plugins will work now.
 
+### Python
+Install python venv
+
+`sudo apt install python3-venv`
+
+### CMake
+Install cmake lsp 
+
+`sudo pip3 install cmake-language-server`
+
 ## NOTE
 clang++ is recommanded to be the compiler instead of g++.
